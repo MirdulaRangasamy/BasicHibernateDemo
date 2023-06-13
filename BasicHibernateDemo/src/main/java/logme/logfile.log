@@ -1,0 +1,100 @@
+INFO  | 2023-06-13 15:09:18 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:12:59 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:13:00 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:13:00 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:35) - Session Closed
+INFO  | 2023-06-13 15:13:00 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:20:19 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 15:20:19 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:20:20 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:20:20 | [main] hibernate.App (App.java:29) - [Student [studId=101, studName=Hari, studSection=A, result=null], Student [studId=102, studName=Preethi, studSection=A, result=null]]
+INFO  | 2023-06-13 15:20:20 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:35) - Session Closed
+INFO  | 2023-06-13 15:20:20 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:21:20 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 15:21:51 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 15:23:18 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 15:24:20 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 15:24:20 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:24:21 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:24:21 | [main] hibernate.App (App.java:29) - [Student [studId=101, studName=Hari, studSection=A, result=null], Student [studId=102, studName=Preethi, studSection=A, result=null]]
+INFO  | 2023-06-13 15:24:21 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:35) - Session Closed
+INFO  | 2023-06-13 15:24:21 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:45:25 | [main] hibernate.App (App.java:18) - In MAIN
+INFO  | 2023-06-13 15:45:25 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:45:25 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:45:25 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:35) - Session Closed
+INFO  | 2023-06-13 15:45:25 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:53:51 | [main] hibernate.App (App.java:21) - In MAIN
+INFO  | 2023-06-13 15:53:51 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:53:52 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:54:08 | [main] hibernate.App (App.java:21) - In MAIN
+INFO  | 2023-06-13 15:54:08 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:54:09 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:54:09 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:54:09 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:37) - Session Closed
+INFO  | 2023-06-13 15:54:59 | [main] hibernate.App (App.java:21) - In MAIN
+INFO  | 2023-06-13 15:54:59 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:55:00 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:55:00 | [main] hibernate.App (App.java:46) - Employee [empId=102, empName=Sreeja, empDept=HR, empSalary=56000.0]
+INFO  | 2023-06-13 15:55:00 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:55:00 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:37) - Session Closed
+INFO  | 2023-06-13 15:56:40 | [main] hibernate.App (App.java:21) - In MAIN
+INFO  | 2023-06-13 15:56:40 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:56:41 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:56:41 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:56:41 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:37) - Session Closed
+INFO  | 2023-06-13 15:59:40 | [main] hibernate.App (App.java:25) - In MAIN
+INFO  | 2023-06-13 15:59:40 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 15:59:40 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:59:40 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:29) - Session Created
+INFO  | 2023-06-13 15:59:40 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:37) - Session Closed
+INFO  | 2023-06-13 16:36:25 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 16:36:25 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 16:36:27 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 16:36:27 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 16:36:27 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 16:38:46 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 16:38:46 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 16:38:47 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 16:40:09 | [main] hibernate.App (App.java:22) - In MAIN
+INFO  | 2023-06-13 16:40:09 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 16:40:11 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 16:40:11 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 16:40:11 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:24:21 | [main] hibernate.App (App.java:29) - In MAIN
+INFO  | 2023-06-13 18:24:21 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:24:23 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:24:23 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:24:23 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:28:53 | [main] hibernate.App (App.java:29) - In MAIN
+INFO  | 2023-06-13 18:28:53 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:28:55 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:31:00 | [main] hibernate.App (App.java:29) - In MAIN
+INFO  | 2023-06-13 18:31:00 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:31:02 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:31:02 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:31:02 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:31:57 | [main] hibernate.App (App.java:29) - In MAIN
+INFO  | 2023-06-13 18:31:57 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:31:58 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:31:59 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:31:59 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:33:11 | [main] hibernate.App (App.java:29) - In MAIN
+INFO  | 2023-06-13 18:33:11 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:33:13 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:33:13 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:33:13 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:34:15 | [main] hibernate.App (App.java:29) - In MAIN
+INFO  | 2023-06-13 18:34:15 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:34:17 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:34:17 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:34:17 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:37:13 | [main] hibernate.App (App.java:27) - In MAIN
+INFO  | 2023-06-13 18:37:14 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:37:16 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:37:16 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:37:16 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
+INFO  | 2023-06-13 18:39:22 | [main] hibernate.App (App.java:27) - In MAIN
+INFO  | 2023-06-13 18:39:22 | [main] common.Version (Version.java:37) - Hibernate Commons Annotations 3.2.0.Final
+INFO  | 2023-06-13 18:39:23 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:39:24 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:28) - Session Created
+INFO  | 2023-06-13 18:39:24 | [main] dao.SessionFactoryProvider (SessionFactoryProvider.java:36) - Session Closed
